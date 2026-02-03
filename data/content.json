@@ -1,0 +1,122 @@
+{
+  "brand": {
+    "name": "Grand Moments",
+    "tagline": "Luxury ambience • Premium experience • Mid-range pricing",
+    "primaryCta": "Reserve Your Date",
+    "whatsappNumber": "918708808087",
+    "contactEmail": "grandmoments@example.com",
+    "phone": "+91 87088 08087",
+    "address": "Your Address, City, State, India",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Delhi&output=embed"
+  },
+  "hero": {
+    "headlinePrefix": "Celebrating",
+    "rotatingWords": [
+      "Love",
+      "Weddings",
+      "Moments",
+      "Memories",
+      "Celebrations"
+    ],
+    "subcopy": "A cinematic venue for weddings, engagements, receptions, corporate events & celebrations."
+  },
+  "amenities": [
+    "Royal interior design & premium lighting",
+    "Custom stage, floral & decor partnerships",
+    "DJ, sound, screen & special effects support",
+    "Spacious parking & valet coordination",
+    "Bridal room + family lounges",
+    "Power backup & climate control"
+  ],
+  "packages": [
+    {
+      "name": "Signature",
+      "price": "₹1,49,000",
+      "notes": "Ideal for intimate premium functions (up to ~200 guests).",
+      "includes": [
+        "Hall rental (6 hrs)",
+        "Basic decor + lighting",
+        "Staff support",
+        "Sound system"
+      ]
+    },
+    {
+      "name": "Royal",
+      "price": "₹2,49,000",
+      "notes": "Best for weddings / receptions (up to ~350 guests).",
+      "includes": [
+        "Hall rental (8 hrs)",
+        "Enhanced decor + stage",
+        "DJ + sound",
+        "Photo backdrop",
+        "Dedicated coordinator"
+      ]
+    },
+    {
+      "name": "Grand Luxe",
+      "price": "₹3,49,000",
+      "notes": "All‑inclusive premium experience (up to ~500 guests).",
+      "includes": [
+        "Full-day rental",
+        "Luxury stage + premium decor",
+        "Lighting + special effects",
+        "VIP lounge setup",
+        "Premium sound + screen"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Aarav & Meera",
+      "text": "The ambience was unreal—warm, elegant, and truly premium. Our guests loved it."
+    },
+    {
+      "name": "Riya Sharma",
+      "text": "Smooth management and beautiful decor. Booking process was effortless."
+    },
+    {
+      "name": "Karan Singh",
+      "text": "Best hall in this budget range. Felt like a luxury destination venue."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How early should we book?",
+      "a": "For peak wedding season, we recommend 2–4 months in advance. For other dates, 2–4 weeks may work."
+    },
+    {
+      "q": "Do you provide catering?",
+      "a": "We offer catering partnerships. You can choose from our partners or bring your own (policy may apply)."
+    },
+    {
+      "q": "What is the payment policy?",
+      "a": "A booking amount confirms your date. Remaining payment is typically due before the event. Details are shared in the quotation."
+    },
+    {
+      "q": "Do you have parking?",
+      "a": "Yes, we have dedicated parking and can coordinate valet support for large events."
+    }
+  ],
+  "blog": {
+    "posts": [
+      {
+        "slug": "perfect-wedding-timeline",
+        "title": "A Perfect Wedding Day Timeline (Stress‑Free)",
+        "date": "2026-01-20",
+        "excerpt": "From décor setup to your grand entry—plan your day like a pro with this simple timeline."
+      },
+      {
+        "slug": "stage-decor-ideas",
+        "title": "Stage Décor Ideas That Look Luxe on a Budget",
+        "date": "2026-01-06",
+        "excerpt": "Soft neutrals, warm gold accents, and lighting tricks that instantly elevate your photos."
+      },
+      {
+        "slug": "guest-comfort-checklist",
+        "title": "Guest Comfort Checklist for a Premium Experience",
+        "date": "2025-12-22",
+        "excerpt": "Small details—big impact. Make your celebration feel five‑star for every guest."
+      }
+    ]
+  }
+}
